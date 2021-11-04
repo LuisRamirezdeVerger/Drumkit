@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/1262445.jpg);
+    align-content: center;
+    color:red;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    /* margin-top: 150px; */
+    border: solid 3px;
+    text-shadow: 3px 3px yellow;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 250px;
+}
+
+
+.drum{
+    border: solid 5px;
+    text-align: center;
+    padding: 20px;
+    text-shadow:1px 1px white;
+}
